@@ -1,7 +1,3 @@
----
-layout: none
----
-<!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
   <style>
