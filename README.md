@@ -11,6 +11,18 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>台灣在宅醫療：醫院到居家的中繼轉銜與沙盒</title>
+  /* 隱藏儲存庫檔案列表中的檔案名稱 (例如檔案清單頁面) */
+.react-directory-filename-column,
+[aria-labelledby="files"] .css-truncate,
+.js-navigation-open.link-gray-dark {
+  display: none !important;
+}
+
+/* 隱藏單一檔案檢視頁面上方的檔案標題檔名 */
+#repos-file-tree + div strong,
+.Box-header .final-path {
+  display: none !important;
+}
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap');
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
