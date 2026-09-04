@@ -1,7 +1,3 @@
----
-layout: null
-title: sandbox_HaH_flowchart
----
 <!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
