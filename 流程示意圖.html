@@ -2,7 +2,10 @@
 <html lang="zh-Hant">
 <head>
   <style>
-  .page-header {
+  .page-header,
+      .site-header,
+  .masthead,
+  header.site-header{
     display: none !important;
   }
 </style>
