@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
+  <style>
+  .page-header {
+    display: none !important;
+  }
+</style>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>台灣在宅醫療：醫院到居家的中繼轉銜與沙盒</title>
